@@ -9,4 +9,5 @@ any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
 dashboards and story
 ● Identify interesting patterns and possible reasons helping Covid-19 spread
 with basic as well as advanced charts
-Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+
+● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
